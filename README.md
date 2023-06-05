@@ -23,7 +23,6 @@
   </div>
 
 
-
-  ![Snake animation](http://github.com/Marcus-Vinicius-Oliveira/Marcus-Vinicius-Oliveira/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Marcus-Vinicius-Oliveira/Marcus-Vinicius-Oliveira/blob/output/github-contribution-grid-snake.svg)
  
          
