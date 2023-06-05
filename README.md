@@ -23,6 +23,6 @@
   </div>
 
 
-![snake gif](https://github.com/Marcus-Vinicius-Oliveira/Marcus-Vinicius-Oliveira/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Marcus-Vinicius-Oliveira/Marcus-Vinicius-Oliveira/blob/output/github-contribution-grid-snake.svg)
  
          
